@@ -1,15 +1,15 @@
 # 🎮 NOVA ESPORTS - Professional Esports Organization
 
 <div align="center">
-  <img src="https://i.ibb.co/nova-esports-banner.png">
+  <img src="https://i.ibb.co.com/pw14n2z/nova.png">
   
   <p align="center">
     A professional esports organization dedicated to developing young talents in Indonesia
     <br />
-    <a href="https://github.com/raflyazwar/nova-esports.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/raflyazwar/esport-website.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://nova-esports-id.netlify.app/">View Demo</a>
+    <a href="https://nova-esports.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -42,7 +42,7 @@
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/yourusername/nova-esports.git
+   git clone https://github.com/raflyazwar/esport-website.git
    ```
 
 2. Install dependencies
